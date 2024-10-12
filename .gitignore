@@ -1,0 +1,8 @@
+# Ignorar archivos de configuración sensibles
+.env
+
+# Ignorar el archivo de bloqueo de paquetes de npm
+package-lock.json
+
+# Otras reglas opcionales para ignorar node_modules o logs
+node_modules/
